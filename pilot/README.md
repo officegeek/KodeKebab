@@ -3,6 +3,7 @@ layout: default
 title: Pilot
 nav_order: 2
 ---
+![](../image/podcast.jpg)
 # Pilot
 Introduktione til denne podcast serie
 
