@@ -3,7 +3,7 @@
 Podcast om Økonomi og IT uddandelsen
 
 ## Episoder
-- Pilot - Ontroduktion <span class="fs-1">
+- Pilot - Introduktion <span class="fs-1">
 [Pilot](./pilot/README.md){: .btn .btn-green }
 </span>
 
