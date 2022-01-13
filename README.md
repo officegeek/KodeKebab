@@ -1,3 +1,4 @@
+![](./image/podcast.jpg)
 # KodeKebab
 ### - til at tage med
 Podcast om Økonomi og IT uddandelsen
