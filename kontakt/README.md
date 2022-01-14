@@ -8,7 +8,7 @@ nav_order: 1001
 [Jens Rasmussen](https://linkedin.com/in/fimano/)
 
 
-![Jens Rasmussen](https://linkedin.com/in/fimano/detail/photo/ "Jens")
+![Jens Rasmussen](https://www.linkedin.com/in/fimano/detail/photo/ "Jens")
 
 
 
