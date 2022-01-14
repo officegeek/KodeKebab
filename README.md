@@ -11,6 +11,8 @@ Podcast om Økonomi og IT uddannelsen plus alt andet vi finder interessant
 Jens Rasmussen og Tue Hellstern
 - begge passionerede undervisere på professionsbacheloruddannelsen Økonomi & it på KEA Digital - Københavns Erhvervsakademi
 
+## Kontakt
+[]
 ---
 ## Her kan du abonnere
-https://kodekebab.podbean.com/
+[Podcast link: ](https://kodekebab.podbean.com/)
