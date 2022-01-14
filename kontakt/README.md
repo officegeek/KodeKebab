@@ -7,9 +7,4 @@ nav_order: 1001
 # Kontakt
 [Jens Rasmussen](https://linkedin.com/in/fimano/)
 
-
-![Jens Rasmussen](https://www.linkedin.com/in/fimano/detail/photo/ "Jens")
-
-
-
 [Tue Hellstern](https://linkedin.com/in/hellstern/)
