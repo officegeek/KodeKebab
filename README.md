@@ -8,8 +8,5 @@ Podcast om Økonomi og IT uddannelsen plus alt andet vi finder interessant
 - <span class="fs-1">[Kom i gang og kend dit værktøj](./epsiode_1/README.md){: .btn .btn-green }</span>
 
 ## Hvem er vi?
-
-### Jens Rasmussen
-### Tue Hellstern
 Jens Rasmussen og Tue Hellstern
 - begge passionerede undervisere på professionsbacheloruddannelsen Økonomi & it på KEA Digital - Københavns Erhvervsakademi
