@@ -11,4 +11,5 @@ Podcast om Økonomi og IT uddannelsen plus alt andet vi finder interessant
 
 ### Jens Rasmussen
 ### Tue Hellstern
+Jens Rasmussen og Tue Hellstern
 - begge passionerede undervisere på professionsbacheloruddannelsen Økonomi & it på KEA Digital - Københavns Erhvervsakademi
