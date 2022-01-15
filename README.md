@@ -14,6 +14,8 @@ Jens Rasmussen og Tue Hellstern
 ## Kontakt
 
 Du finder kontaktinformation [her](./kontakt/README.md). Skriv meget gerne en besked til os.
+
 ---
+
 ## Her kan du abonnere
 [KodeKebab på PodBean](https://kodekebab.podbean.com/)
